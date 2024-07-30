@@ -1,7 +1,7 @@
 # Blog ist Online
 
-Ein Blog von Sven ist nun Online. Geschrieben wird hier auf Deutsch. 
+Ein Blog von Sven ist Online. 
 
-[...]
+Geschrieben wird hier auf Deutsch. 
 
-*Geschrieben am 2024-07-30* 
+Die Themen werden sich dann mit der Zeit ergeben. 
