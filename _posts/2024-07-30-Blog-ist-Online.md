@@ -1,7 +1,6 @@
-# Blog ist Online
 
-Ein Blog von Sven ist Online. 
+Ein (neuer) Blog von Sven ist hier Online. 
 
-Geschrieben wird hier auf Deutsch. 
+Geschrieben wird auf Deutsch. 
 
 Die Themen werden sich dann mit der Zeit ergeben. 
