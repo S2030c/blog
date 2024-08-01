@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ich bin fasziniert von der menschlichen Existenz und suche nach Antworten in Kunst, Geisteswissenschaften, sozialen Interaktionen und den unendlichen Möglichkeiten der digitalen Welt. Musik begleitet mich dabei als ständiger Begleiter.
+Ich bin fasziniert von der menschlichen Existenz und suche nach Antworten in Kultur, Kunst, Geisteswissenschaften, sozialen Interaktionen und den unendlichen Möglichkeiten der digitalen Welt. 
 
 ### Mehr Information
 
