@@ -1,6 +1,6 @@
 
-Ein (neuer) Blog von Sven ist hier Online. 
+Ein (neuer) Blog von Sven ist hier Online. [2024-07-30]
 
 Geschrieben wird auf Deutsch. 
 
-Die Themen werden sich dann mit der Zeit ergeben. 
+Die Themen werden sich mit der Zeit ergeben. Der Autor ist Sven. 
