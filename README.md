@@ -8,7 +8,7 @@ Es wurde umgesetzt mit Barry Clarks [Jekyl-Now](https://github.com/barryclark/je
 
 **Gedanken und Inspirierendes zu Welt, Wirklichkeit und Zeitepoche**
 
-Die Themenbereiche umfassen Gedanken zu:
+Die Themenbereiche umfassen Gedanken im Bereich der Kultur – etwas spezifischer eingeordnet, zu:
 
 - Geist
 - Ideen
