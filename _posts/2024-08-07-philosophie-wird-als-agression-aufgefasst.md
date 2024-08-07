@@ -1,13 +1,15 @@
 Philosophische Überlegungen werden auf absurde Weise oft als Aggression aufgefasst, und dann als Ganzes mit dem Mensch, der sie aufbringt, ausgeschüttet, diskreditiert und ausgegrenzt. 
 
-Philosophische Denker werden in unserer derzeitigen Form von Gesellschaft oft stigmatisiert und ausgegrenzt. Das klingt absurd, und  ist es auch, und dennoch findet es so häufig statt. 
+Philosophische Denker werden in unserer derzeitigen Form von Gesellschaft oft stigmatisiert und ausgegrenzt. Das klingt absurd, und  ist es auch, und dennoch findet es häufig genau so statt. 
 
-\> Philosophieren bedeutet nicht immer nur Zustimmung. Es beinhaltet auch die **Fähigkeit, kritisch zu hinterfragen und alternative Sichtweisen zu entwickeln**. Dies wird oft **als Angriff verstanden**, obwohl das Ziel eine umfassendere Wahrheitssuche ist.
+Philosophieren bedeutet nicht immer nur Zustimmung. Es beinhaltet auch die **Fähigkeit, kritisch zu hinterfragen und alternative Sichtweisen zu entwickeln**. Dies wird oft **als Angriff verstanden**, obwohl das Ziel eine umfassendere Wahrheitssuche ist.
+
+Philosophie ist eine **wertvolle Methode, die Welt zu erschließen** und verstehbar zu machen. sowie eine Sprache des Austauschs über andernfalls schwierig zu besprechende Aspekte zu ermöglichen.  
 
 **Philosophie ist das Nachdenken über alles Mögliche**, von der Natur der Realität bis zur Bedeutung des Lebens. Es ist die Lehre von den grundlegenden **Fragen des menschlichen Daseins**, des Wissens, der Werte und der Wirklichkeit.      
 Bei philosophischen Betrachtungen wird  nach **Antworten auf Fragen** gesucht, die über den unmittelbaren Alltag hinausgehen und die Welt in ihrer Gesamtheit betrachten.
 
-**\> Philosophie ist für Gesellschaft, Politik und Kultur wichtig, da sie kritisches Denken fördert, Werte hinterfragt und neue Perspektiven eröffnet.** Sie hilft dem Einzelnen, sein Leben zu reflektieren und seine Rolle in der Gesellschaft zu verstehen. **Für den Menschen selbst ist Philosophie ein Werkzeug zur Selbstfindung und zur Entwicklung einer eigenen Weltanschauung.**
+**Philosophie ist für Gesellschaft, Politik und Kultur wichtig, da sie kritisches Denken fördert, Werte hinterfragt und neue Perspektiven eröffnet.** Sie hilft dem Einzelnen, sein Leben zu reflektieren und seine Rolle in der Gesellschaft zu verstehen. **Für den Menschen selbst ist Philosophie ein Werkzeug zur Selbstfindung und zur Entwicklung einer eigenen Weltanschauung.**
 
 Philosophie ist ein **Bindeglied** zwischen der Welt der Gedanken (in der Menschen ohnehin verankert sind) und der Erfahrung von Welt und Wirklichkeit im Allgemeinen.      
 **DIE WELT**, die gibt es nicht, weil eine Vorstellung von Welt ein **individuelles, und privates gedankliches Konstrukt** ist, das jeder selbst für sich generiert, *nur jedem selbst zugänglich ist,*  und das nur bedingt mit anderen Menschen Bereiche eines gemeinsamen gedanklichen Raumes haben kann. Philosophie kann ein Bindeglied sein, zwischen unterschiedlichen Wert- und Welt-vorstellungen, was man nicht unterschätzen sollte. 
@@ -28,7 +30,7 @@ Hierzu kann es **mehrere Gründe** geben:
 
 **Soziale Dynamiken:** In sozialen Gruppen kann es dazu kommen, dass abweichende Meinungen oder kritische Fragen als Bedrohung für den Zusammenhalt empfunden werden. Wer sich von der Gruppe abhebt, riskiert Ausgrenzung.
 
-Es ergeben sich viele weitere Ursachen, die 
+Das sind nur einige der möglichen Ursachen.
 
 ## Lösung des Problems der Ausgrenzung von Philosophie
 
@@ -39,8 +41,6 @@ Um philosophische Überlegungen in der Gesellschaft besser zu integrieren und Mi
 **Philosophie in den Bildungsgang integrieren:** Ein fundiertes Verständnis philosophischer Konzepte und Argumentationsweisen ermöglicht es uns, komplexe Themen besser zu erfassen und zu diskutieren. Durch den frühzeitigen Umgang mit philosophischen Fragen können wir kritisches Denken und die Fähigkeit zur Reflexion stärken.
 
 **Den Wert des kritischen Denkens betonen:** Wir sollten die Bedeutung des Hinterfragens von Annahmen und Normen in den Vordergrund stellen. Kritisches Denken ist eine wichtige Voraussetzung für gesellschaftlichen Fortschritt und persönliche Entwicklung.
-
-Zusätzlich können einige weitere Vorgehensweisen hilfreich sein:
 
 **Dialoge fördern:** Durch offene Gespräche und Debatten können wir unterschiedliche Perspektiven zusammenbringen und zu einem tieferen Verständnis komplexer Themen gelangen.
 
@@ -54,4 +54,4 @@ Indem wir diese Punkte berücksichtigen, können wir dazu beitragen, dass philos
 
 Eine wichtige und bedeutende Grundlage dazu ist es:  
 
-Mehr Respekt und Toleranz gegenüber Andersdenkenden zu entwickeln und diese Fähigkeit zur Toleranz sowohl gesellschaftlich als auch im eigenen sozialen Umfeld weiter auszubauen. 
+**Mehr Respekt und Toleranz gegenüber Andersdenkenden** zu entwickeln und diese Fähigkeit zur Toleranz sowohl gesellschaftlich als auch im eigenen sozialen Umfeld weiter auszubauen. 
