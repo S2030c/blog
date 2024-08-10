@@ -108,5 +108,5 @@ Richtiges Schlussfolgern zu lernen ist immer eine gute Idee, weil es das Leben u
 
 —-
 
-Hierzu gibt es einen Vertiefungs Eintrag unter \<[../themen/korrektheit-und-fehlschluss/](http://../themen/korrektheit-und-fehlschluss/)\>
+Hierzu gibt es einen Vertiefungs Eintrag unter \<[/blog/themen/korrektheit-und-fehlschluss/](/blog/themen/korrektheit-und-fehlschluss/)\>
 
