@@ -2,7 +2,7 @@ Ein Fehlschluss ist ein logischer Fehler in einer Argumentation. Dabei wird eine
 
 Ein Fehlschluss ist eine Denkfalle, bei der wir zu einer falschen Schlussfolgerung kommen, obwohl wir eigentlich logisch denken wollten.
 
-**|| Bei diesem Thema handelt es sich um eines DER GROSSEN THEMENBEREICHE, die nicht abschließend bearbeitet und behandelt werden können.** 
+**|| Bei diesem Thema handelt es sich um eineen DER GROSSEN THEMENBEREICHE, die grundlegend nicht abschließend bearbeitet und behandelt werden können.** 
 
 Fehlschlüsse und Denkfallen sind enorm weit verbreitet, und sie führen immer zu erheblichen Folgen, die grundlegend ungewollt sind, sich dann jedoch auch ungewollt ereignen. Oft wissen Beteiligte nicht, warum es diese Folgen gibt, denn die Ursache eines Denkfehlers wird häufig gar nicht in Erwägung gezogen. Oft ist es sogar so, dass nicht einmal bekannt ist, dass es so etwas wie Fehlschlüsse, Denkfallen oder Denkfehler überhaupt geben kann. Die Annahme ist weit verbreitet, dass Schlussfolgerungen von vornherein korrekt und richtig sein müssen, wenn man solche zieht. Das ist allerdings häufig nicht so, es gibt viele Denkfallen, in die man auch unbeabsichtigt geraten kann, ohne irgendetwas Böses im Sinn zu haben,ohne dies zu wollen, und  ohne willentlich Fehler zu konstruieren. 
 
