@@ -1,3 +1,8 @@
+# Minimalismus, Subsistenz und Suffizienz
+
+     
+   
+
 Minimalismus ist ein Lebensstil, der sich auf das Wesentliche konzentriert und das Überflüssige reduziert. Es geht darum, bewusst zu wählen, was man in sein Leben lässt und was nicht. Dabei wird nicht nur auf materielle Dinge reduziert, sondern auch auf Verpflichtungen, Aktivitäten und sogar auf digitale Informationen.
 
 Es gibt unterschiedliche Arten von Einstellungen zu Minimalismus.
