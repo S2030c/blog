@@ -1,4 +1,4 @@
-*Zusätzliche Texte als spezielle Dokumente.*
+*Zusätzliche Texte als eigenständige Dokumente.*
    
    
 
