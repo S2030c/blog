@@ -1,6 +1,6 @@
-  
+# Was sind reale Werte  
     
-
+   
 **Reale Werte im Leben von Menschen** sind die grundlegenden Überzeugungen und Prinzipien, die unser Handeln und unsere Entscheidungen leiten. Sie geben unserem Leben Sinn und Orientierung. Im Gegensatz zu materiellen Werten, die sich ändern können, sind reale Werte tief in uns verwurzelt und bleiben oft ein Leben lang bestehen.
 
 **Reale Werte** haben für uns Menschen einen (intrinsischen) Wert, der direkt auf unser Leben und unser Sein wirkt. Im Gegensatz zu materiellen Werten sind reale Werte direkt mit unserem Wesen als Mensch verbunden. Materielle Werte haben meist nichts mit unserer menschlichen Wesenheit zu tun. Manche materiellen Werte sind zwar eine materielle Notwendigkeit zur Existenz, doch ist dies nur deswegen so, weil sie unsere Körperlichkeit erhalten, die der Träger für unseren Geist ist. Als seelisch-geistiger Wert sind materielle Werte nicht dienlich. 
