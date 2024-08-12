@@ -8,7 +8,7 @@
 
 ----
 
-Anschlussfähigkeit beschreibt die Fähigkeit, etwas mit etwas anderem zu verbinden oder zu verknüpfen. Es ist die Fähigkeit, Beziehungen herzustellen, sei es zwischen Menschen, Ideen oder Systemen, und so ein kohärentes Ganzes zu schaffen. [Lesen](./anschluss-und-anschlussfaehigkeit/)
+**Anschlussfähigkeit** beschreibt die Fähigkeit, etwas mit etwas anderem zu verbinden oder zu verknüpfen. Es ist die Fähigkeit, Beziehungen herzustellen, sei es zwischen Menschen, Ideen oder Systemen, und so ein kohärentes Ganzes zu schaffen. [Lesen](./anschluss-und-anschlussfaehigkeit/)
 
 ----
 
