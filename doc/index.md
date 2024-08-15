@@ -16,6 +16,10 @@
 
 ----
 
+**Der Kontext** ist der Rahmen, in dem etwas geschieht oder gesagt wird. Er gibt Wörtern, Sätzen oder Handlungen ihre Bedeutung und ihren Sinn. Die Metaebene ist eine Ebene der Betrachtung, auf der man über etwas spricht, anstatt es direkt zu tun oder zu erleben. Es ist wie ein Schritt zurücktreten und über das Geschehene nachdenken.  [Lesen](./kontext-und-metaebene/) 2024-08-15
+
+----
+
 **Anschlussfähigkeit** beschreibt die Fähigkeit, etwas mit etwas anderem zu verbinden oder zu verknüpfen. Es ist die Fähigkeit, Beziehungen herzustellen, sei es zwischen Menschen, Ideen oder Systemen, und so ein kohärentes Ganzes zu schaffen. [Lesen](./anschluss-und-anschlussfaehigkeit/) 2024-08-12
 
 ----
