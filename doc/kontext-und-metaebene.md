@@ -1,3 +1,5 @@
+# Kontext und Metaebene
+
 Der Kontext ist der Rahmen, in dem etwas geschieht oder gesagt wird. Er gibt Wörtern, Sätzen oder Handlungen ihre Bedeutung und ihren Sinn. Die Metaebene ist eine Ebene der Betrachtung, auf der man über etwas spricht, anstatt es direkt zu tun oder zu erleben. Es ist wie ein Schritt zurücktreten und über das Geschehene nachdenken.
 
 Ohne Kontext ist eine Information oder sind Daten (die Grundlage von Information) an sich völlig wertlos. 
@@ -40,4 +42,6 @@ Kontext ist wie ein Puzzle, bei dem jedes Puzzleteil einen Beitrag zum Gesamtbil
 * **Kommunikation:** Ein gemeinsamer Kontext ist für eine erfolgreiche Kommunikation unerlässlich.  
 * **Lernen:** Wir lernen am besten, wenn wir neue Informationen in einen bestehenden Kontext einordnen können.  
 * **Problemlösung:** Durch die Betrachtung eines Problems im richtigen Kontext finden wir oft bessere Lösungen.
+
+Stand: 2024-08-15
 
