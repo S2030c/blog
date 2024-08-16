@@ -8,10 +8,12 @@ Ich bin fasziniert von der menschlichen Existenz und suche nach Antworten in Kul
 
 ### Mehr Information
 
-Wenn mir mehr einfällt, schreibe ich hier darüber.
+Ich lebe in der nähe von Stuttgart, auf dem Land – ein etwas „ungewöhnliches Leben“. 
+
+Wenn mir mehr einfällt, schreibe ich darüber.
 
 ### Kontaktiere mich
 
 [Kontaktdaten in Github](https://github.com/S2030c)
 
-Stand: 2024-07-30
+Stand: 2024-08-16
