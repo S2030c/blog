@@ -22,4 +22,4 @@ Position, Haltung und Werte sind Grundlage für, und prägen unser Denken, Hande
 
 [Kontaktdaten in Github](https://github.com/S2030c)
 
-Stand: 2024-08-16
+Stand: 2024-08-18
