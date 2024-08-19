@@ -2,7 +2,7 @@ Unser Konsumverhalten wird von der Gesellschaft geprägt: Mehr kaufen, höher st
 
 **Der Mythos vom Glück durch Konsum**
 
-Lange Zeit galt materieller Wohlstand als Garant für ein glückliches Leben. Doch zahlreiche Studien zeigen, dass dieser Zusammenhang komplexer ist. Zwar kann ein gewisses Maß an Wohlstand dazu beitragen, grundlegende Bedürfnisse zu befriedigen. Doch über eine gewisse Schwelle hinaus führt mehr Konsum nicht automatisch zu mehr Glück. Vielmehr kann er sogar zu Unzufriedenheit führen, da sich die Ansprüche ständig erhöhen und das Gefühl entsteht, nie genug zu haben.
+Lange Zeit galt materieller Wohlstand als Garant für ein glückliches Leben. Doch zahlreiche Studien zeigen, dass dieser Zusammenhang komplexer ist. Zwar kann ein gewisses Maß an Wohlstand dazu beitragen, grundlegende Bedürfnisse zu befriedigen. Doch über eine gewisse Schwelle hinaus führt mehr Konsum nicht automatisch zu mehr Glück. Vielmehr kann es sogar zu Unzufriedenheit führen, da sich die Ansprüche ständig erhöhen und das Gefühl entsteht, nie genug zu haben.
 
 ## Genügsamkeit als Schlüssel zum Glück
 
@@ -44,3 +44,16 @@ Ein Spaziergang im Wald, ein Bad im See oder einfach nur das Beobachten der Natu
 
 Genügsamkeit ist kein Verzicht, sondern eine bewusste Entscheidung für ein erfüllteres Leben. Indem wir unsere Werte reflektieren, soziale Kontakte pflegen, positive Gedanken kultivieren, unseren Konsum reduzieren und die Natur genießen, können wir mehr Zufriedenheit, innere Ruhe und ein tieferes Verständnis für uns selbst gewinnen.
 
+## DLF Audio: Genügsamkeit, Gier und gutes Leben 
+
+Wann ist genug genug? Was braucht es für ein zufriedenes Leben? In einer Zeit von Krisen und Erschöpfung erforschen Wissenschaftler unterschiedlicher Disziplinen die Suffizienz. Und viele Menschen suchen persönliche Wege in die Genügsamkeit.
+
+Wie viel – oder besser wie wenig – ist nötig, um ein gutes Leben führen zu können? 
+
+DLF : 08\. August 2024, 19:30 Uhr
+
+29:48 Minuten 
+
+[Aus dem Podcast : Zeitfragen. Feature](https://www.deutschlandfunkkultur.de/zeitfragen-feature-132.html)
+
+\>\> [https://www.deutschlandfunkkultur.de/genuegsamkeit-gier-gutes-leben-100.html](https://www.deutschlandfunkkultur.de/genuegsamkeit-gier-gutes-leben-100.html)
