@@ -8,7 +8,7 @@
 
 ----
 
-**Der Humanismus** ist eine Geisteshaltung, die den Menschen in den Mittelpunkt stellt und seine Würde sowie seine Fähigkeit zur Vernunft betont. Er ist eine positive und zukunftsweisende Geisteshaltung, die den Menschen in den Mittelpunkt stellt und eine bessere Welt anstrebt. [Lesen](./der-humanismus-als-weltbild/) 2024-08-22
+**Der Humanismus** ist eine positive und zukunftsweisende Geisteshaltung, die den Menschen in den Mittelpunkt stellt, eine bessere Welt anstrebt und die Würde des Menschen sowie die Fähigkeit zur Vernunft betont.   [Lesen](./der-humanismus-als-weltbild/) 2024-08-22
 
 ----
 
