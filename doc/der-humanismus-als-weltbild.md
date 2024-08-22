@@ -1,6 +1,6 @@
 # **Der Humanismus** 
 
-Der Humanismus ist eine Geisteshaltung, die den Menschen in den Mittelpunkt stellt und seine Würde sowie seine Fähigkeit zur Vernunft betont. Er ist eine positive und zukunftsweisende Geisteshaltung, die den Menschen in den Mittelpunkt stellt und eine bessere Welt anstrebt. 
+Der Humanismus ist eine positive und zukunftsweisende Geisteshaltung, die den Menschen in den Mittelpunkt stellt, eine bessere Welt anstrebt und die Würde des Menschen sowie die Fähigkeit zur Vernunft betont.
 
 Der Humanismus entstand in der Renaissance und orientierte sich an den Werten der Antike. Auch heute noch ist der Humanismus eine relevante Geisteshaltung. Er beeinflusst viele Bereiche unseres Lebens, wie Bildung, Politik und Gesellschaft. Humanistische Werte wie Toleranz, Vernunft und Menschenwürde sind wichtiger denn je, um die Herausforderungen unserer Zeit zu bewältigen.
 
