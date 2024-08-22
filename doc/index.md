@@ -7,6 +7,11 @@
 **Die Philosophie**, die "Liebe zur Weisheit", ist eine Disziplin, die seit Jahrtausenden Menschen beschäftigt und fasziniert. Ihr Wert ist vielfältig und erstreckt sich über zahlreiche Bereiche unseres Lebens. [Lesen](./philosophie-und-mensch/) 2024-08-12
 
 ----
+
+Der Humanismus ist eine Geisteshaltung, die den Menschen in den Mittelpunkt stellt und seine Würde sowie seine Fähigkeit zur Vernunft betont. Er ist eine positive und zukunftsweisende Geisteshaltung, die den Menschen in den Mittelpunkt stellt und eine bessere Welt anstrebt. [Lesen](./der-humanismus-als-weltbild/) 2024-08-22
+
+----
+
 **Abstraktion und Konkretisierung**   
 **Abstraktion** bedeutet, etwas auf das Wesentliche zu reduzieren und dabei unwichtige Details auszublenden. Abstraktion hilft uns, komplexe Sachverhalte zu vereinfachen, indem wir uns auf die wichtigsten Eigenschaften konzentrieren. **Konkretisierung** ist im Grunde das Gegenteil von Abstraktion. Während wir bei der Abstraktion allgemeine Begriffe und Ideen bilden, indem wir von konkreten Einzelheiten absehen, geht es bei der Konkretisierung darum, diese Abstraktionen wieder mit konkreten Inhalten zu füllen.    
 [Lesen](./abstraktion-und-konkretisierung/)   2024-08-17
