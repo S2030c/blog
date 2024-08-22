@@ -1,5 +1,3 @@
-## 
-
 Wir sehen die Welt nicht, wie sie ist, sondern wie wir sind. Dieser Satz mag paradox klingen, ist aber ein zentraler Gedanke in der Wahrnehmungspsychologie. Denn unser Gehirn ist kein passiver Empfänger von Informationen, sondern ein aktiver Konstrukteur unserer Realität.
 
 Stellen Sie sich vor, Ihr Gehirn ist ein Regisseur, der einen Film über die Welt dreht. Die Rohmaterialien – die Informationen aus unseren Sinnen – werden in diesem Film zu einer kohärenten Geschichte zusammengefügt. Doch dieser Regisseur ist nicht objektiv. Er hat Vorlieben, Erfahrungen und Erwartungen, die beeinflussen, wie er die Geschichte erzählt.
