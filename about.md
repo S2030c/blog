@@ -10,11 +10,11 @@ Ich bin fasziniert von der menschlichen Existenz und suche nach Antworten in Kul
 
 Durch einfaches Scrollen im [Blog-Bereich](/blog/) tauchst du in eine Welt neuer Themen und spannender Texte ein.
 
-### Mehr Information
+### Mehr »About«
 
 Ich lebe in der nähe von Stuttgart, auf dem Land – ein etwas „ungewöhnliches Leben“. 
 
-Wenn mir mehr einfällt, schreibe ich darüber.
+Wenn mir mehr einfällt, schreibe ich etwas darüber.
 
 ### Werte, Haltung und Position des Autors
 
