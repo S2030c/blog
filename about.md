@@ -6,6 +6,10 @@ permalink: /about/
 
 Ich bin fasziniert von der menschlichen Existenz und suche nach Antworten in Kultur, Kunst, Geisteswissenschaften, sozialen Interaktionen und den unendlichen Möglichkeiten der digitalen Welt. 
 
+### Themen und Texte entdecken
+
+Durch einfaches Scrollen im [Blog-Bereich](/blog/) tauchst du in eine Welt neuer Themen und spannender Texte ein.
+
 ### Mehr Information
 
 Ich lebe in der nähe von Stuttgart, auf dem Land – ein etwas „ungewöhnliches Leben“. 
