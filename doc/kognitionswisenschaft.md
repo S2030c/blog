@@ -1,6 +1,6 @@
 ---  
 layout: page  
-title: Die Kognitionswissenschaft: Ein Fenster in den menschlichen Geist  
+title: Die Kognitionswissenschaft - Ein Fenster in den menschlichen Geist  
 permalink: /doc/kognitionswissenschaft/  
 ---  
 Die Kognitionswissenschaft ist ein interdisziplinäres Forschungsfeld, das sich der Erforschung der mentalen Prozesse widmet, die dem menschlichen Denken, Lernen, Erinnern und Entscheiden zugrunde liegen. Sie versucht, die komplexen Vorgänge im Gehirn zu entschlüsseln, die es uns ermöglichen, die Welt um uns herum wahrzunehmen, zu interpretieren und darauf zu reagieren.
