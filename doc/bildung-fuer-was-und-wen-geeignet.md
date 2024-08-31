@@ -1,8 +1,8 @@
-\---  
+---  
 layout: page  
-title: **Bildung für alle – oder doch nicht? Eine Betrachtung individueller Lernwege**  
+title: Bildung für alle – oder doch nicht? Eine Betrachtung individueller Lernwege  
 permalink: /doc/bildung-fuer-was-und-wen-geeignet/  
-\---  
+---  
 Die Idee, dass Bildung für alle zugänglich sein sollte, ist ein Grundpfeiler unserer Gesellschaft. Doch **was bedeutet Bildung eigentlich**? Ist es das Auswendiglernen von Fakten, das Erwerben von Zertifikaten oder geht es um eine umfassende Entwicklung der Persönlichkeit? Und **wer bestimmt, welche Art von Bildung für wen geeignet ist**?
 
 Die Forderung nach einer **vielfältigeren Bildungslandschaft,** die philosophische, humanistische, politische, künstlerische, freie und offene oder gar digitale Bildung umfasst, ist in den letzten Jahren lauter geworden. Diese Formen der Bildung versprechen eine ganzheitliche Entwicklung, die über das reine Faktenwissen hinausgeht. Sie fördern Kreativität, kritisches Denken, soziale Kompetenzen und ein tiefes Verständnis für sich selbst und die Welt.
