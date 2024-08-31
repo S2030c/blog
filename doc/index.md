@@ -39,8 +39,16 @@ Hier möchte ich eine grundlegende Richtung anbieten, wie sich dies bei mir verh
 [Lesen](./werte-haltung-position-des-autors/) 2024-08-18
 
 ----
-Die Kognitionswissenschaft ist ein interdisziplinäres Forschungsfeld, das sich der Erforschung der mentalen Prozesse widmet, die dem menschlichen Denken, Lernen, Erinnern und Entscheiden zugrunde liegen. Sie versucht, die komplexen Vorgänge im Gehirn zu entschlüsseln, die es uns ermöglichen, die Welt um uns herum wahrzunehmen, zu interpretieren und darauf zu reagieren.  [Lesen](./kognitionswissenschaft/) 2024-08-31
+
+Die Idee, dass ++Bildung für alle zugänglich++ sein sollte, ist ein Grundpfeiler unserer Gesellschaft. Doch was bedeutet Bildung eigentlich? Ist es das Auswendiglernen von Fakten, das Erwerben von Zertifikaten oder geht es um eine umfassende Entwicklung der Persönlichkeit? Und wer bestimmt, welche Art von Bildung für wen geeignet ist?
+[Lesen](./bildung-fuer-was-und-wen-geeignet/) 2024-08-31
 
 ----
+
+Die ++Kognitionswissenschaft++ ist ein interdisziplinäres Forschungsfeld, das sich der Erforschung der mentalen Prozesse widmet, die dem menschlichen Denken, Lernen, Erinnern und Entscheiden zugrunde liegen. Sie versucht, die komplexen Vorgänge im Gehirn zu entschlüsseln, die es uns ermöglichen, die Welt um uns herum wahrzunehmen, zu interpretieren und darauf zu reagieren.  [Lesen](./kognitionswissenschaft/) 2024-08-31
+
+----
+
+
 
 [Test](./test/)
