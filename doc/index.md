@@ -30,6 +30,12 @@
 
 ----
 
+**Der Mensch als Zweck für sich selbst**   
+Der **Wert des Menschen** ist eine Frage, die Philosophen seit Jahrtausenden beschäftigt. Während sich die Antworten im Laufe der Zeit gewandelt haben, besteht ein grundlegender Konsens darin, dass der Mensch einen Eigenwert besitzt, der über seinen Nutzen für andere hinausgeht. Immanuel Kant formulierte es prägnant: Der Mensch soll niemals bloß als Mittel, sondern immer zugleich als Zweck an sich selbst betrachtet werden.    
+[Lesen](./der-mensch-als-selbstzweck/) 2024-009-06
+
+----
+
 **Anschlussfähigkeit** beschreibt die Fähigkeit, etwas mit etwas anderem zu verbinden oder zu verknüpfen. Es ist die Fähigkeit, Beziehungen herzustellen, sei es zwischen Menschen, Ideen oder Systemen, und so ein kohärentes Ganzes zu schaffen. [Lesen](./anschluss-und-anschlussfaehigkeit/) 2024-08-12
 
 ----
